@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "services": "Services",
+    "process": "Process",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "requestQuote": "Request Quote"
+  },
+  "hero": {
+    "title1": "Your idea,",
+    "title2": "our code.",
+    "subtitle": "Tell us what you have in mind and we take care of everything. You relax, the code is on us.",
+    "cta": "Request Quote",
+    "whatsapp": "Chat on WhatsApp",
+    "trustedBy": "Trusted by"
+  },
+  "services": {
+    "badge": "What we do",
+    "title": "Solutions that drive your business",
+    "subtitle": "We transform ideas into high-impact digital products with cutting-edge technology.",
+    "web": {
+      "title": "Custom Web Development",
+      "description": "We design and build websites and applications 100% tailored to your business. Cutting-edge tech, flawless performance and user experience that turns visitors into customers."
+    },
+    "seo": {
+      "title": "SEO & Web Positioning",
+      "description": "We make your business show up on Google when your customers search for you. Technical optimization, strategic content and continuous tracking so you dominate organic results in your industry."
+    },
+    "payments": {
+      "title": "Payment Integration",
+      "description": "Accept online payments with any method. We integrate Mercado Pago, Stripe, PayPal, credit/debit cards, bank transfers and more. Your business ready to sell 24/7."
+    },
+    "cloud": {
+      "title": "Cloud Infrastructure",
+      "description": "Your project always online, fast and secure. We set up the infrastructure to grow with your business without you worrying about anything technical."
+    },
+    "ai": {
+      "title": "Applied Artificial Intelligence",
+      "description": "We automate processes and boost your business with intelligent solutions. From chatbots to predictive analytics, we make AI work for you."
+    },
+    "dashboard": {
+      "title": "Admin Panel & Metrics",
+      "description": "Total control of your business. We build custom admin panels with real-time metrics, automated reports and visual dashboards so you can make data-driven decisions."
+    },
+    "cta": "Request Quote"
+  },
+  "process": {
+    "badge": "How we work",
+    "title": "From your idea to reality in record time",
+    "subtitle": "Agile methodology with weekly deliveries. You just share your idea, we do the rest.",
+    "step1": {
+      "title": "Tell us your idea",
+      "description": "Just tell us what you have in mind. Via chat, audio or video call. We listen and understand."
+    },
+    "step2": {
+      "title": "We plan everything",
+      "description": "We build the strategy, design and technical architecture. You approve and we get started."
+    },
+    "step3": {
+      "title": "MVP in 1 week",
+      "description": "In 7 days you have a working version to see, touch and request changes. No hassle."
+    },
+    "step4": {
+      "title": "We iterate together",
+      "description": "Every week you see real progress. Request changes, we apply them instantly. Your project evolves with you."
+    },
+    "cta": "Get Started"
+  },
+  "projects": {
+    "badge": "Our work",
+    "title": "Projects that speak for themselves",
+    "subtitle": "Every project is a success story. See what we build for our clients.",
+    "viewProject": "View project",
+    "technologies": "Technologies",
+    "cta": "Request Quote"
+  },
+  "testimonials": {
+    "badge": "What they say about us",
+    "title": "Clients who trust Pentacode",
+    "subtitle": "The best advertising is a satisfied client. Hear what those who have worked with us have to say.",
+    "cta": "Request Quote"
+  },
+  "quote": {
+    "badge": "Let's start",
+    "title": "Have an idea? Tell us",
+    "subtitle": "Choose how you prefer to communicate. Fill out the form, record an audio with your idea or chat with our AI.",
+    "form": {
+      "title": "Quick form",
+      "name": "Your name",
+      "email": "Your email",
+      "phone": "Your phone (optional)",
+      "description": "Tell us your idea...",
+      "audio": "Or record an audio telling us your idea",
+      "recording": "Recording...",
+      "recorded": "Audio recorded",
+      "record": "Record audio",
+      "stop": "Stop",
+      "delete": "Delete",
+      "submit": "Send request",
+      "sending": "Sending...",
+      "success": "Request sent! We'll contact you soon.",
+      "error": "Error sending. Try again."
+    },
+    "chat": {
+      "title": "Chat with AI",
+      "placeholder": "Type your message...",
+      "send": "Send",
+      "thinking": "Thinking..."
+    },
+    "or": "or you can also",
+    "whatsapp": "Chat on WhatsApp",
+    "email": "Send an email",
+    "cta": "Request Quote"
+  },
+  "footer": {
+    "description": "We transform ideas into high-impact digital products. Your project, our passion.",
+    "quickLinks": "Quick links",
+    "contactUs": "Contact us",
+    "rights": "All rights reserved."
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "pt": "Português"
+  }
+}

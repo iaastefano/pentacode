@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "process": "Proceso",
+    "projects": "Proyectos",
+    "testimonials": "Testimonios",
+    "contact": "Contacto",
+    "requestQuote": "Solicitar Presupuesto"
+  },
+  "hero": {
+    "title1": "Tu idea,",
+    "title2": "nuestro código.",
+    "subtitle": "Contanos qué tenés en mente y nosotros nos encargamos de todo. Vos relajate, que el código corre por nuestra cuenta.",
+    "cta": "Solicitar Presupuesto",
+    "whatsapp": "Hablar por WhatsApp",
+    "trustedBy": "Confían en nosotros"
+  },
+  "services": {
+    "badge": "Lo que hacemos",
+    "title": "Soluciones que impulsan tu negocio",
+    "subtitle": "Transformamos ideas en productos digitales de alto impacto con tecnología de última generación.",
+    "web": {
+      "title": "Desarrollo Web a Medida",
+      "description": "Diseñamos y construimos sitios web y aplicaciones que se adaptan 100% a tu negocio. Tecnología de punta, rendimiento impecable y experiencia de usuario que convierte visitantes en clientes."
+    },
+    "seo": {
+      "title": "SEO y Posicionamiento Web",
+      "description": "Hacemos que tu negocio aparezca en Google cuando tus clientes te buscan. Optimización técnica, contenido estratégico y seguimiento continuo para que domines los resultados orgánicos de tu rubro."
+    },
+    "payments": {
+      "title": "Integración de Pagos",
+      "description": "Cobrá online con cualquier método de pago. Integramos Mercado Pago, Stripe, PayPal, tarjetas de crédito/débito, transferencias y más. Tu negocio listo para vender 24/7."
+    },
+    "cloud": {
+      "title": "Infraestructura en la Nube",
+      "description": "Tu proyecto siempre online, rápido y seguro. Configuramos la infraestructura para que crezca con tu negocio sin que tengas que preocuparte por nada técnico."
+    },
+    "ai": {
+      "title": "Inteligencia Artificial Aplicada",
+      "description": "Automatizamos procesos y potenciamos tu negocio con soluciones inteligentes. Desde chatbots hasta análisis predictivo, hacemos que la IA trabaje para vos."
+    },
+    "dashboard": {
+      "title": "Panel de Admin y Métricas",
+      "description": "Tu negocio bajo control total. Desarrollamos paneles de administración a medida con métricas en tiempo real, reportes automáticos y dashboards visuales para que tomes decisiones basadas en datos."
+    },
+    "cta": "Solicitar Presupuesto"
+  },
+  "process": {
+    "badge": "Cómo trabajamos",
+    "title": "De tu idea a la realidad en tiempo récord",
+    "subtitle": "Metodología ágil con entregas semanales. Vos solo contás tu idea, nosotros hacemos el resto.",
+    "step1": {
+      "title": "Contanos tu idea",
+      "description": "Solo necesitás decirnos qué tenés en mente. Por chat, audio o videollamada. Nosotros escuchamos y entendemos."
+    },
+    "step2": {
+      "title": "Planificamos todo",
+      "description": "Armamos la estrategia, el diseño y la arquitectura técnica. Vos aprobás y nosotros arrancamos."
+    },
+    "step3": {
+      "title": "MVP en 1 semana",
+      "description": "En 7 días tenés una versión funcional para ver, tocar y pedir cambios. Sin vueltas."
+    },
+    "step4": {
+      "title": "Iteramos juntos",
+      "description": "Cada semana ves avances reales. Pedís cambios, los aplicamos al instante. Tu proyecto evoluciona con vos."
+    },
+    "cta": "Empezá Ahora"
+  },
+  "projects": {
+    "badge": "Nuestro trabajo",
+    "title": "Proyectos que hablan por nosotros",
+    "subtitle": "Cada proyecto es una historia de éxito. Mirá lo que construimos para nuestros clientes.",
+    "viewProject": "Ver proyecto",
+    "technologies": "Tecnologías",
+    "cta": "Solicitar Presupuesto"
+  },
+  "testimonials": {
+    "badge": "Lo que dicen de nosotros",
+    "title": "Clientes que confían en Pentacode",
+    "subtitle": "La mejor publicidad es un cliente satisfecho. Escuchá lo que dicen quienes ya trabajaron con nosotros.",
+    "cta": "Solicitar Presupuesto"
+  },
+  "quote": {
+    "badge": "Empecemos",
+    "title": "¿Tenés una idea? Contanos",
+    "subtitle": "Elegí cómo preferís comunicarte. Podés completar el formulario, grabar un audio con tu idea o chatear con nuestra IA.",
+    "form": {
+      "title": "Formulario rápido",
+      "name": "Tu nombre",
+      "email": "Tu email",
+      "phone": "Tu teléfono (opcional)",
+      "description": "Contanos tu idea...",
+      "audio": "O grabá un audio contándonos tu idea",
+      "recording": "Grabando...",
+      "recorded": "Audio grabado",
+      "record": "Grabar audio",
+      "stop": "Detener",
+      "delete": "Eliminar",
+      "submit": "Enviar solicitud",
+      "sending": "Enviando...",
+      "success": "¡Solicitud enviada! Te contactamos pronto.",
+      "error": "Error al enviar. Intentá de nuevo."
+    },
+    "chat": {
+      "title": "Chatear con IA",
+      "placeholder": "Escribí tu mensaje...",
+      "send": "Enviar",
+      "thinking": "Pensando..."
+    },
+    "or": "o también podés",
+    "whatsapp": "Hablar por WhatsApp",
+    "email": "Enviar un email",
+    "cta": "Solicitar Presupuesto"
+  },
+  "footer": {
+    "description": "Transformamos ideas en productos digitales de alto impacto. Tu proyecto, nuestra pasión.",
+    "quickLinks": "Enlaces rápidos",
+    "contactUs": "Contacto",
+    "rights": "Todos los derechos reservados."
+  },
+  "language": {
+    "es": "Español",
+    "en": "English",
+    "pt": "Português"
+  }
+}
