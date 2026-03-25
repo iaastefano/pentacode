@@ -11,6 +11,7 @@ interface Message {
   content: string;
 }
 
+
 export function ChatWidget() {
   const t = useTranslations("quote.chat");
   const [open, setOpen] = useState(false);
