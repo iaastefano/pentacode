@@ -12,7 +12,7 @@ set -euo pipefail
 # ===================================================================
 
 APP_DIR="/var/www/pentacode"
-REPO_URL="https://github.com/TU-USUARIO/pentacode.git"
+REPO_URL="https://github.com/iaastefano/pentacode.git"
 BRANCH="main"
 NODE_VERSION="20"
 
@@ -47,6 +47,9 @@ setup() {
 }
 
 update() {
+  export NVM_DIR="${NVM_DIR:-$HOME/.nvm}"
+  [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
   cd "$APP_DIR"
 
   echo "==> Bajando cambios..."
