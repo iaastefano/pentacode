@@ -57,7 +57,7 @@ update() {
   git reset --hard "origin/$BRANCH"
 
   echo "==> Instalando dependencias..."
-  npm ci --omit=dev
+  npm ci
   npx prisma generate
 
   echo "==> Migrando base de datos..."
