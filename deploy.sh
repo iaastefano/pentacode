@@ -57,7 +57,7 @@ update() {
   git reset --hard "origin/$BRANCH"
 
   echo "==> Instalando dependencias..."
-  npm ci
+  npm ci --include=dev
   npx prisma generate
 
   echo "==> Migrando base de datos..."
@@ -75,7 +75,7 @@ update() {
 
 ssl() {
   echo "==> Configurando SSL con certbot..."
-  sudo certbot --nginx -d tu-dominio.com -d www.tu-dominio.com --non-interactive --agree-tos -m tu-email@ejemplo.com
+  sudo certbot --nginx -d pentacodewebs.com -d www.pentacodewebs.com --non-interactive --agree-tos -m stefano1dalessandro@gmail.com
   sudo systemctl reload nginx
   echo "==> SSL configurado. Renovación automática activa."
 }
